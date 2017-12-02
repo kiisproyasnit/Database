@@ -1,31 +1,28 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"Client": [
+	{
+		"Ivanov Ivan Ivanovich":{
+			"id": 3390539493
+			"red": 0
+			"green": 150
+			"blue": 0
+	},
+	
+	{
+		"Petrov Petr Petrovich":{
+			"id": 3854927589,
+			"red": 150,
+			"green": 0,
+			"blue": 0,
+	},
+	
+		
+	{
+		"Alexandrov Alexandr Alexandrovich":{
+			"id": 76463397,
+			"red": 0,
+			"green": 0,
+			"blue": 150,
+	}
+]
 }
