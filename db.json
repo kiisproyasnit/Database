@@ -1,6 +1,21 @@
 {
     "Clients": {
-        "id": 1,
-        "name": "Ivanov Ivan Ivanovich"
-  }
+        "id": 3390539493: {
+                "red": 0,
+		        "green": 150,
+		        "blue": 0,
+                }
+        },
+        "id": 3854927589: {
+                "red": 150,
+		        "green": 0,
+		        "blue": 0,
+                }
+        },
+        "id": 76463397: {
+                "red": 0,
+		        "green": 0,
+		        "blue": 150,
+                }
+        }
 }
