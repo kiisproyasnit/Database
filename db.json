@@ -1,5 +1,6 @@
 {
     "Clients": {
-    "name": "Ivanov Ivan Ivanovich"
+        "id": 1,
+        "name": "Ivanov Ivan Ivanovich"
   }
 }
