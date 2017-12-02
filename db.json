@@ -3,10 +3,10 @@
 	{
 		"Ivanov Ivan Ivanovich":{
 			"id": 3390539493
-			"red": 0
-			"green": 150
-			"blue": 0
-	},
+			"red": 0,
+			"green": 150,
+			"blue": 0,
+	}
 	
 	{
 		"Petrov Petr Petrovich":{
@@ -14,7 +14,7 @@
 			"red": 150,
 			"green": 0,
 			"blue": 0,
-	},
+	}
 	
 		
 	{
