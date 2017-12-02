@@ -1,7 +1,20 @@
 {
-"Ivanov Ivan Ivanovich": {
-	"id": "3390539493",
-	"colours": "0,150,0"
+"Client": [
+	{
+		"Ivanov Ivan Ivanovich":{
+			"id": 3390539493,
+			"colours": 0,150,0
+	},
+	
+	{
+		"Petrov Petr Petrovich":{
+			"id": 3854927589,
+			"colours": 100,0,0
+	},
+	
+		"Alexandrov Alexandr Alexandrovich":{
+			"id": 76463397,
+			"colours": 0,0,100
 	}
-
+]
 }
